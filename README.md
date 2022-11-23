@@ -2,8 +2,6 @@
 
 This repository collects various research (mostly writings, some code) I have undertaken / collaborated on. Copies of documents are maintained here; brief descriptions and links to various publications (including external, where available) are below.
 
----
-
 ## Public blockchain research
 
 ### SmartPiggies: An open-source standard for a free peer-to-peer global derivatives market
@@ -28,7 +26,14 @@ Discussion of issues related to oracle security in public blockchain systems and
 * Date: 4/2022
 * [Repo link](https://github.com/cs79/research/blob/main/works/Oracle%20Security%20in%20Public%20Blockchain%20Systems.pdf)
 
----
+### ASIC Mining Analysis by Simulation
+
+An investigation into the topic of the prevalence of ASICs in cryptocurrency mining, from back when this was the subject of greater debate.
+
+* Date: 8/2018
+* [External link](https://medium.com/@cs79/asic-mining-analysis-by-simulation-817e49607360)
+* [Repo link](https://github.com/cs79/research/blob/main/works/ASIC%20Mining%20Analysis%20by%20Simulation.pdf)
+* [Code link](https://github.com/cs79/asic_sim)
 
 ## Other digital currency research
 
@@ -55,8 +60,6 @@ A broad report on many facets of CBDC design; my contributions were primarily on
 * Date: 9/2021
 * [External link](https://www.bis.org/publ/othp42_system_design.pdf)
 * [Repo link](https://github.com/cs79/research/blob/main/works/Central%20bank%20digital%20currencies%20-%20system%20design%20and%20interoperability.pdf)
-
----
 
 ## Other financial technology research
 
