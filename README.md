@@ -78,3 +78,12 @@ A follow-up to the previous report looking at more detailed technical requiremen
 * Date: 9/2021
 * [External link](https://www.bis.org/publ/othp41.pdf)
 * [Repo link](https://github.com/cs79/research/blob/main/works/Enabling%20open%20finance%20through%20APIs%20-%20Report%20on%20payment%20initiation.pdf)
+
+## Other technology research
+
+### Cross-GPU Kernel Performance Prediction
+
+ML modeling of various GPU hardware and software kernel features to predict GPGPU application performance across different hardware architectures.
+
+* Date: 4/2022
+* [Repo link](https://github.com/cs79/research/blob/main/works/Cross-GPU%20Kernel%20Performance%20Prediction.pdf)
